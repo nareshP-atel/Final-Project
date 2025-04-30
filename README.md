@@ -1,4 +1,4 @@
-# 🧠 Mental Health & Productivity Tracker
+# 🧠 Mental Health  Tracker
 
 A full-stack MERN application designed to help users track their emotions, plan their productivity, gain mental health insights, and engage in a supportive community. Includes AI-based sentiment analysis and journaling features to enhance self-awareness and wellbeing.
 
