@@ -102,7 +102,6 @@ Mental-Health-Tracker/
 │   ├── routes/
 │   ├── middleware/
 │   └── .env
-├── README.md
 └── screenshots/            # Screenshots used in README
 ```
 
